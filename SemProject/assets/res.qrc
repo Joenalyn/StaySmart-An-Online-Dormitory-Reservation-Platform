@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="images">
+    <file>room1.png</file>
+    <file>room2.png</file>
+    <file>room3.png</file>
+    <file>customerservice.png</file>
+    <file>eyecon.png</file>
+    <file>../../../Downloads/GUI Draft (1).png</file>
+    <file>logo.png</file>
+    <file>../../../Downloads/Community Event Fundraiser Non-profit Website in Beige Light Blue Style (4).png</file>
+    <file>../../../Downloads/Community Event Fundraiser Non-profit Website in Beige Light Blue Style (3).png</file>
+    <file>../../画像/Screenshots/Screenshot 2025-11-21 090751.png</file>
+    <file>Community Event Fundraiser Non-profit Website in Beige Light Blue Style (5).png</file>
+    <file>../../../Downloads/Community Event Fundraiser Non-profit Website in Beige Light Blue Style (2).png</file>
+    <file>../../../Downloads/Community Event Fundraiser Non-profit Website in Beige Light Blue Style (1).png</file>
+    <file>bg.png</file>
+    <file>../../../Downloads/Community Event Fundraiser Non-profit Website in Beige Light Blue Style (6).png</file>
+  </qresource>
+</RCC>
